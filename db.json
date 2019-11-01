@@ -1,0 +1,158 @@
+{
+  "albums": [
+    {
+      "id": 1,
+      "name": "Landscapes",
+      "thumbnail":"https://images.pexels.com/photos/1955134/pexels-photo-1955134.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "name": "Oceans",
+      "id": 2,
+      "thumbnail":"https://images.pexels.com/photos/1555313/pexels-photo-1555313.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
+    },
+    {
+      "name": "Animals",
+      "id": 3,
+      "thumbnail":"https://images.pexels.com/photos/236599/pexels-photo-236599.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"  
+    },
+    {
+      "name": "Culture",
+      "id": 4,
+      "thumbnail":"https://images.pexels.com/photos/161352/ganesha-parvathi-devi-madurai-meenakshi-amman-temple-161352.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "name":"Space",
+      "id": 5,
+      "thumbnail":"https://cdn.spacetelescope.org/archives/images/screen/potw1234a.jpg"
+    },
+    {
+      "name": "Bokeh",
+      "id": 6,
+      "thumbnail":"https://images.pexels.com/photos/2887887/pexels-photo-2887887.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    }
+  ],
+  "images":[
+    {
+      "albumId": 1,
+      "url":"https://images.pexels.com/photos/691668/pexels-photo-691668.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "id": 1
+    },
+    {
+      "albumId": 1,
+      "url":"https://images.pexels.com/photos/1670187/pexels-photo-1670187.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "id": 2
+    },
+    {
+      "albumId": 1,
+      "url":"https://images.pexels.com/photos/1955134/pexels-photo-1955134.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "id": 3
+    },
+    {
+      "albumId": 1,
+      "url":"https://images.pexels.com/photos/831056/pexels-photo-831056.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "id": 4
+    },
+    {
+      "albumId": 2,
+      "url":"https://images.pexels.com/photos/1059979/pexels-photo-1059979.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "id":5
+    },
+    {
+      "albumId": 2,
+      "url":"https://images.pexels.com/photos/1575833/pexels-photo-1575833.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "id":6
+    },
+    {
+      "albumId": 2,
+      "url":"https://images.pexels.com/photos/1555313/pexels-photo-1555313.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+      "id":7
+    },
+    {
+      "albumId": 2,
+      "url":"https://images.pexels.com/photos/1717868/pexels-photo-1717868.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "id":8
+    },
+
+    {
+      "albumId": 3,
+      "url": "https://images.pexels.com/photos/86413/elephant-africa-okavango-delta-animal-86413.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "id":9
+    },
+    {
+      "albumId": 3,
+      "url": "https://images.pexels.com/photos/236599/pexels-photo-236599.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "id":10
+    },
+    {
+      "albumId": 3,
+      "url": "https://images.pexels.com/photos/2006800/pexels-photo-2006800.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+      "id":11
+    },
+    {
+      "albumId": 3,
+      "url": "https://images.pexels.com/photos/631228/pexels-photo-631228.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "id":12
+    },
+    {
+      "albumId":4,
+      "url": "https://images.pexels.com/photos/784707/pexels-photo-784707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "id": 13
+    },
+    {
+      "albumId":4,
+      "url": "https://images.pexels.com/photos/2707070/pexels-photo-2707070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "id": 14
+    },
+    {
+      "albumId":4,
+      "url": "https://images.pexels.com/photos/161352/ganesha-parvathi-devi-madurai-meenakshi-amman-temple-161352.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "id": 15
+    },
+    {
+      "albumId":4,
+      "url": "https://images.pexels.com/photos/2406731/pexels-photo-2406731.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "id": 16
+    },
+    {
+      "albumId":5,
+      "url":"http://cdn.spacetelescope.org/archives/images/screen/opo0328a.jpg",
+      "id":17
+    },
+    {
+      "albumId":5,
+      "url":"https://cdn.spacetelescope.org/archives/images/screen/opo9929b.jpg",
+      "id":17
+    },
+    {
+      "albumId":5,
+      "url":"https://cdn.spacetelescope.org/archives/images/screen/potw1234a.jpg",
+      "id":17
+    },
+    {
+      "albumId":5,
+      "url":"https://cdn.spacetelescope.org/archives/images/screen/opo9919i.jpg",
+      "id":17
+    },
+    {
+      "albumId": 6,
+      "url":"https://images.pexels.com/photos/3026026/pexels-photo-3026026.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "id":18
+    },
+    {
+      "albumId": 6,
+      "url":"https://images.pexels.com/photos/2887887/pexels-photo-2887887.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "id":19
+    },
+    {
+      "albumId": 6,
+      "url":"https://images.pexels.com/photos/3062553/pexels-photo-3062553.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "id":20
+    },
+    {
+      "albumId": 6,
+      "url":"https://images.pexels.com/photos/3071984/pexels-photo-3071984.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+      "id":21
+    }
+
+  ]
+}
