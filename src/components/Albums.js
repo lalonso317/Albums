@@ -14,7 +14,7 @@ useEffect(() =>{
 
     return(
         <div className = "main">
-            <h1 className="h1">Albums</h1>
+            <h1>Albums</h1>
             <div className="block">
             {albs.map(alb =>(
                 <Link style={{ textDecoration: 'none' }} key={"alb" + alb.id} to={"/Images/" + alb.id}>
@@ -22,7 +22,7 @@ useEffect(() =>{
                 <img className="thumb" src={alb.thumbnail}/>
                 </Link>
             ))}
-        </div>
+            </div>
         </div>
     )
 }
